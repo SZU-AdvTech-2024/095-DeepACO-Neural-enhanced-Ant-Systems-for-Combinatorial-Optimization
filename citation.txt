@@ -1,0 +1,7 @@
+@article{REPO095,
+    author = "Ye, Haoran and Wang, Jiarui and Cao, Zhiguang and Liang, Helan and Li, Yong",
+    journal = "Advances in Neural Information Processing Systems",
+    title = "{DeepACO: neural-enhanced ant systems for combinatorial optimization}",
+    volume = "36",
+    year = "2024"
+}
